@@ -43,6 +43,8 @@ Fallback text for old browsers with "stibmivbicons-ie678.css". Add those lines i
 ```
 
 ### Copyright and License
+Code and documentation copyright 2015 Joji Moreau. Code released under GNU General Public License v3.0.
+
 This library is inspired by [MetroDNA](https://github.com/clementoriol/MetroDNA).
 
 ### Recent Changelog
