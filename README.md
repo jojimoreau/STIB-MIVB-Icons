@@ -29,7 +29,18 @@ Simple and clean SVG icons of the STIB/MIVB.
 ### Supported browsers
 We support IE 9+, Firefox 4.0+, Chrome 7.0+, Safari 5.1+, Opera 11.6+, Android 4+.
 
-Fallback text for old browsers with "ie.css".
+Fallback text for old browsers with "stibmivbicons-ie678.css". Add those lines in your html:
+```html
+<!--[if IE 6]>
+<link href="css/stibmivbicons-ie678.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+<!--[if IE 7]>
+<link href="css/stibmivbicons-ie678.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+<!--[if IE 8]>
+<link href="css/stibmivbicons-ie678.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+```
 
 ### Copyright and License
 This library is inspired by [MetroDNA](https://github.com/clementoriol/MetroDNA).
