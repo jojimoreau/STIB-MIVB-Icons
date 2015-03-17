@@ -1,1 +1,2 @@
 *.html linguist-language=CSS
+*.svg linguist-language=CSS
