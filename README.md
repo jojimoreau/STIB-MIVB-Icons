@@ -21,6 +21,9 @@ Simple and clean SVG icons of the STIB/MIVB.
 
 <span class="tram symbole">Tram</span>
 <span class="tram line4">Ligne 4</span>
+
+<span class='noctis symbole'>Noctis</span>
+<span class='noctis line4'>Ligne n04</span>
 ```
 
 ### Supported browsers
