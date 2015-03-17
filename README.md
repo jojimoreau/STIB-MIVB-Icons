@@ -1,6 +1,8 @@
 # STIB-MIVB-Icons
 Simple and clean SVG icons of the STIB/MIVB.
 
+![alt tag](https://raw.githubusercontent.com/jojimoreau/STIB-MIVB-Icons/master/example/sample.png)
+
 - **Author:** Joji Moreau
 - **Website:** [http://jojimoreau.eu/stib-mivb-icons](http://jojimoreau.eu/stib-mivb-icons)
 - **Version:** 1.0.0
