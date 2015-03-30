@@ -16,13 +16,13 @@ Simple and clean SVG icons of the STIB/MIVB.
 
 ### How to use it
 ```html
-<span class="metro symbole">Metro</span>
+<span class="logo metro">Metro</span>
 <span class="metro line6">Ligne 6</span>
 
-<span class="tram symbole">Tram</span>
+<span class="logo tram">Tram</span>
 <span class="tram line4">Ligne 4</span>
 
-<span class='noctis symbole'>Noctis</span>
+<span class='logo noctis'>Noctis</span>
 <span class='noctis line4'>Ligne n04</span>
 ```
 
