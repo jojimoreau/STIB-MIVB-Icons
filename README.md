@@ -49,6 +49,11 @@ This library is inspired by [MetroDNA](https://github.com/clementoriol/MetroDNA)
 
 ### Recent Changelog
 
+#### 1.1.0
+- Add Go, Kiosk, Shop and Bootik logo.
+- Add TEC, SNCB and DeLijn logo.
+- Add SNCB in and out Brussels stations logo.
+
 #### 1.0.0
 - Add metro, tram, bus, noctis symbol icons.
 - Add metro, tram, bus, noctis line icons.
